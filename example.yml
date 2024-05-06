@@ -8,3 +8,6 @@ ships:
   - name: Enterprise
     ncc: 1701-D
     captain: Picard
+  - name: Voyager
+    ncc: 74656
+    captain: Janeway
