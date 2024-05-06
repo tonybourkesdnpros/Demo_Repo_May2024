@@ -1,0 +1,10 @@
+ships:
+  - name: Enterprise
+    ncc: 1701
+    captain: Kirk
+  - name: Reliant
+    ncc: 1864
+    captain: Terrel
+  - name: Enterprise
+    ncc: 1701-D
+    captain: Picard
